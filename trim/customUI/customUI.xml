@@ -1,0 +1,11 @@
+﻿<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+	<ribbon>
+		<tabs>
+			<tab idMso="TabHome">
+				<group id="GroupAlignGrid" label="画像">
+					<button enabled="true" id="Button1" imageMso="SizeToGridAccess" label="Trim" onAction="show" screentip="Trim" supertip="複数の画像を一気にトリミングします" showImage="true" size="large" showLabel="true" visible="true" />
+				</group>
+			</tab>
+		</tabs>
+	</ribbon>
+</customUI>
